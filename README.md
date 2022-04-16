@@ -1,2 +1,2 @@
 # LambdaFunction
-This pipeline archives and deploy python to a Lambda Function in AWS.
+This pipeline deploys python application to a Lambda Function in AWS.
